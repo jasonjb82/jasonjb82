@@ -1,6 +1,6 @@
-<h2> Hi, I'm Jason Benedict! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Jason Benedict!</h2>
 <img align='right' src="https://raw.githubusercontent.com/jasonjb82/jasonjb82.github.io/master/assets/images/favicon/apple-touch-icon.png" width="230">
-<p><em>Assistant Research Specialist @ <a href="http://www.ucsb.edu">University of California Santa Barbara</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
+<p><em>Assistant Research Specialist @ <a href="http://www.ucsb.edu">University of California Santa Barbara</a></p>
 
 [![Twitter: jasonjb82](https://img.shields.io/twitter/follow/jasonjb82?style=social)](https://twitter.com/jasonjb82)
 [![Linkedin: jasonjb82](https://img.shields.io/badge/-jasonjb82-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasonjb82/)](https://www.linkedin.com/in/jasonjb82/)
