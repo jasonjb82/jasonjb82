@@ -1,5 +1,5 @@
 <h2> Hi, I'm Jason Benedict!</h2>
-<img align='right' src="https://raw.githubusercontent.com/jasonjb82/jasonjb82.github.io/master/assets/images/favicon/apple-touch-icon.png" width="230">
+#<img align='right' src="https://raw.githubusercontent.com/jasonjb82/jasonjb82.github.io/master/assets/images/favicon/apple-touch-icon.png" width="230">
 <p><em>Assistant Research Specialist @ <a href="http://conservation-econ.com/">Conservation Economics Lab, UCSB</a></p>
 
 [![Twitter: jasonjb82](https://img.shields.io/twitter/follow/jasonjb82?style=social)](https://twitter.com/jasonjb82)
