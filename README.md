@@ -4,7 +4,7 @@
 
 [![Twitter: jasonjb82](https://img.shields.io/twitter/follow/jasonjb82?style=social)](https://twitter.com/jasonjb82)
 [![Linkedin: jasonjb82](https://img.shields.io/badge/-jasonjb82-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasonjb82/)](https://www.linkedin.com/in/jasonjb82/)
-[![GitHub jasonjb82](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/jasonjb82)
+[![GitHub jasonjb82](https://img.shields.io/github/followers/jasonjb82?label=follow&style=social)](https://github.com/jasonjb82)
 <br>
 <br>
 📈 My GitHub Stats
