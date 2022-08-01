@@ -1,5 +1,5 @@
 <h2> Hi, I'm Jason Benedict!</h2>
-<p><em>Assistant Research Specialist @ <a href="http://conservation-econ.com/">Conservation Economics Lab, UCSB</a></p>
+<p><em>Associate Research Specialist @ <a href="http://conservation-econ.com/">Conservation Economics Lab, UCSB</a></p>
 
 [![Twitter: jasonjb82](https://img.shields.io/twitter/follow/jasonjb82?style=social)](https://twitter.com/jasonjb82)
 [![Linkedin: jasonjb82](https://img.shields.io/badge/-jasonjb82-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasonjb82/)](https://www.linkedin.com/in/jasonjb82/)
